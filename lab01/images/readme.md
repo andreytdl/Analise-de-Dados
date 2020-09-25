@@ -3,13 +3,13 @@ A ideia é comparar os dados de queimadas e através de uma análise poder deter
 <img src="imagem.png"/>
 <br>
 <br>
-Dados utilizados:<br>
-<h2>Api de queimadas do INPE</h2> <br>
+<h2>Dados utilizados:</h2><br>
+<h3>Api de queimadas do INPE</h3> <br>
 <b>Quando ocorreu:</b> Futuramente poderá ser usado em conjunto com os dados do coronavirus para determinar se os acontecimentos realmente podem ter alguma relação.<br>
 <b>Bioma:</b> Podemos verificar também se possíveis diferenças nos dados são devido a vegetação local<br>
 <b>Estado:</b> Utilizaremos em conjunto com os dados do coronavirus para a verificação da região de incidente.<br>
 <br>
-<h2>Dados do Covid19</h2><br>
+<h3>Dados do Covid19</h3><br>
 <b>Ultima atualização:</b> Futuramente poderá ser usado em conjunto com os dados dos focos de queimada para determinar se os acontecimentos realmente podem ter alguma relação.<br>
 <b>Quantidade de mortos:</b> Dado essêncial para determinar-mos se houve ou não alguma alteração nos acontecimentos.<br>
 <b>Estado:</b> Utilizaremos em conjunto com os dados dos focos de queimada para a verificação da região de incidente.<br>
