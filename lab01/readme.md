@@ -1,8 +1,7 @@
-##Tarefa 1 sobre APIs de acesso
+## Tarefa 1 sobre APIs de acesso
 [Notebook](https://github.com/andreytdl/Analise-de-Dados/blob/master/lab01/notebook/Dado%20de%20queimadas%20pelo%20INPE.ipynb)
 
 ## Tarefa 2 sobre Engenharia Reversa
-![imagem](https://github.com/andreytdl/Analise-de-Dados/blob/master/lab01/images/imagem.png)
 A ideia é comparar os dados de queimadas e através de uma análise poder determinar se o numero de mortes por problemas respiratórios aumentou devido a uma soma entre queimadas e o coronavirus.<br>
 <img src="images/imagem.png"/>
 <h2>Dados utilizados:</h2>
