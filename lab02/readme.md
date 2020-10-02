@@ -1,5 +1,5 @@
-## Lab 02 -> Acessar e obter dados especificados através de apis
-[Notebook](https://github.com/andreytdl/Analise-de-Dados/blob/master/lab01/notebook/Dado%20de%20queimadas%20pelo%20INPE.ipynb)
+## Lab 02 -> Acessar e obter dados especificados através de apis de Linked Data
+[Notebook](https://github.com/andreytdl/Analise-de-Dados/blob/master/lab02/notebook/Lab02.ipynb)
 <br>
 A ideia foi estudar sobre dados linkados(Linked Data) e o como poderíamos navegar através deles usando requisições get
 <br>
